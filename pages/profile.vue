@@ -133,11 +133,6 @@
             </div>
         </div>
         <hr>
-        <div class="row">
-          <div class="col">
-            <h5 class="section-title fs-3 pb-1">Informasi Sekolah</h5>
-          </div>
-        </div>
     </div>
 </template>
 <style scoped>
