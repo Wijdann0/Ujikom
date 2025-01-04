@@ -15,10 +15,13 @@
                 <div class=" text-center " style="width: 18rem;">
                     <img src="../assets/image/mas.png" class="card-img-top mx-5" alt="..." style="width: 13rem;">
                     <div class="card-body">
+                        <p class="card-text text-center">
+                            Assalamualaikum Wr. Wb
+                        </p>
                         <p class="card-text" style="text-align: justify;">
-                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam ab delectus id quod.
-                             Minima, molestiae quisquam maiores a
-                             laborum provident sint ipsa dolorem nesciunt nemo est voluptas aspernatur assumenda rerum!
+                            Segala puji dan syukur kita panjatkan kepada Allah SWT, semoga
+                             kita semua ada dalam lindungan-nya. dan atas perkenan-nya pula 
+                            kami dapat menghadirkan website SMK Negeri 4 Tasikmalaya ini.
                         </p>
                     </div>
                 </div>
@@ -61,7 +64,13 @@
                     <div class="card-body ">
                         <h5 class="card-title"><b>PPLG</b></h5>
                         <h6 class="card-subtitle mb-2 text-muted">Pengembangan Perangkat Lunak dan Gim</h6>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Sarana Pendukung Pembelajaran</p>
+                        <ul>
+                            <li>Bengkel TKJ</li>
+                            <li>Network Simulator</li>
+                            <li>Techno Park</li>
+                            <li>DLL</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -70,7 +79,13 @@
                     <div class="card-body">
                         <h5 class="card-title"><b>TJKT</b></h5>
                         <h6 class="card-subtitle mb-2 text-muted">Teknik Jaringan Komputer dan Telekomunikasi</h6>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Sarana Pendukung Pembelajaran</p>
+                        <ul>
+                            <li>Laboratiorium Komputer</li>
+                            <li>Komputer Server</li>
+                            <li>Techno Park</li>
+                            <li>DLL</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -79,7 +94,13 @@
                     <div class="card-body ">
                         <h5 class="card-title"><b>TBSM</b></h5>
                         <h6 class="card-subtitle mb-2 text-muted">Teknik Otomotif</h6>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Sarana Pendukung Pembelajaran</p>
+                        <ul>
+                            <li>Bengkel TBSM</li>
+                            <li>Unit Produksi</li>
+                            <li>Techno Park</li>
+                            <li>DLL</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -88,7 +109,13 @@
                     <div class="card-body">
                         <h5 class="card-title"><b>TOI</b></h5>
                         <h6 class="card-subtitle mb-2 text-muted">Teknik Elektronika</h6>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Sarana Pendukung Pembelajaran</p>
+                        <ul>
+                            <li>Bengkel TOI</li>
+                            <li>Unit Produksi</li>
+                            <li>Techno Park</li>
+                            <li>DLL</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -97,7 +124,13 @@
                     <div class="card-body">
                         <h5 class="card-title"><b>DKV</b></h5>
                         <h6 class="card-subtitle mb-2 text-muted">Desain Komunikasi Visual</h6>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text">Sarana Pendukung Pembelajaran</p>
+                        <ul>
+                            <li>Bengkel DKV</li>
+                            <li>Unit Produksi</li>
+                            <li>Techno Park</li>
+                            <li>DLL</li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -110,79 +143,61 @@
                 </h4>
                 <div class="card text-center m-4">
                     <div class="card-header">
-                        Featured
+                        12-12-2024
                     </div>
                     <div class="card-body bg-success-subtle">
-                        <h5 class="card-title">Special title treatment</h5>
+                        <h5 class="card-title">Pemilihan Ketua dan Wakil Osis</h5>
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        2 days ago
                     </div>
                 </div>
                 <div class="card text-center m-4">
                     <div class="card-header">
-                        Featured
+                        12-12-2024
                     </div>
                     <div class="card-body bg-success-subtle">
-                        <h5 class="card-title">Special title treatment</h5>
+                        <h5 class="card-title">Pembukaan Pekan Olahraga Kelas</h5>
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        2 days ago
                     </div>
                 </div>
                 <div class="card text-center m-4">
                     <div class="card-header">
-                        Featured
+                        25-11-2024
                     </div>
                     <div class="card-body bg-success-subtle">
-                        <h5 class="card-title">Special title treatment</h5>
+                        <h5 class="card-title">Selamat Hari Guru</h5>
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        2 days ago
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 text-center">
                 <h4 class="p-4">
-                    <b>Kegiatan Terbaru</b>
+                    <b>Pengumuman Terbaru</b>
                 </h4>
                 <div class="card text-center m-4">
                     <div class="card-header">
-                        Featured
+                        02-01-2025
                     </div>
                     <div class="card-body bg-warning-subtle">
-                        <h5 class="card-title">Special title treatment</h5>
+                        <h5 class="card-title">Pembukaan Uji Kompetensi</h5>
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        2 days ago
                     </div>
                 </div>
                 <div class="card text-center m-4">
                     <div class="card-header">
-                        Featured
+                        13-12-2025
                     </div>
                     <div class="card-body bg-warning-subtle">
-                        <h5 class="card-title">Special title treatment</h5>
-                        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        2 days ago
+                        <h5 class="card-title">LPS SemiFinal</h5>
+                        <p class="card-text">SMK Negeri 3 Tasikmalaya VS SMK Negeri 4 Tasikmalaya</p>
                     </div>
                 </div>
                 <div class="card text-center m-4">
                     <div class="card-header">
-                        Featured
+                        10-12-2024
                     </div>
                     <div class="card-body bg-warning-subtle">
-                        <h5 class="card-title">Special title treatment</h5>
+                        <h5 class="card-title">Pekan Ujian Sekolah</h5>
                         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                    </div>
-                    <div class="card-footer text-muted">
-                        2 days ago
                     </div>
                 </div>
             </div>
