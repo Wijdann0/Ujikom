@@ -1,11 +1,13 @@
 <template>
     <div class="container-fluid">
         <div class="row">
-            <div class="col image-container d-flex justify-content-center align-items-center">
-                <div class="bg-success p-2 text-white" style="--bs-bg-opacity: .5;">
-                    <h1>
-                        <b>Selamat Datang Di Web SMKN 4 Tasikmalaya</b>
-                    </h1>
+            <div class="parallax">
+                <div class="col image-container d-flex justify-content-center align-items-center">
+                    <div class="bg-success p-2 text-white" style="--bs-bg-opacity: .5;">
+                        <h1>
+                            <b>Selamat Datang Di Web SMKN 4 Tasikmalaya</b>
+                        </h1>
+                    </div>
                 </div>
             </div>
         </div>
@@ -297,7 +299,6 @@
 
 <style scoped>
 .image-container{
-    background-image: url("../assets/image/BGround.webp");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
@@ -305,6 +306,18 @@
     background-size: cover;
     position: relative;
 }
+
+.parallax{
+    background-image: url("../assets/image/BGround.webp");
+     /* Set a specific height */
+    min-height: 500px;
+    
+      /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 .style {
   border: 1px solid;
   padding: 10px;
