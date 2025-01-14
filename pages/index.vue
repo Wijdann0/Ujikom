@@ -299,7 +299,6 @@
 
 <style scoped>
 .image-container{
-    background-color: #cccccc;
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
